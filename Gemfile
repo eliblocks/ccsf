@@ -22,6 +22,8 @@ gem 'turbolinks', '~> 5'
 
 gem 'jbuilder', '~> 2.5'
 
+gem 'wurfl_cloud_client', :require=>'wurfl_cloud'
+
 
 group :development, :test do
   gem 'sqlite3'
